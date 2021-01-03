@@ -9,7 +9,7 @@ Figura 01.
 
 # Hardware
 Para o circuito do projeto foram utilizados os seguintes componentes:
-    1x - ESP-32;
+    1x - ESP-32;\n
     1x - Sensor de temperatura (MLX90614);
     1x - Display OLED (128x64 0.96" I2C);
     1x - Sensor ultrssônico (HC-SR04);
