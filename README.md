@@ -6,21 +6,19 @@ O aspecto comportamental do projeto é bem simples, uma vez que o dispositivo en
 
 Figura 01.
 ![corpo do projeto](https://user-images.githubusercontent.com/75312838/103484934-466d3d80-4dd1-11eb-8f72-037d712954b0.PNG)
-\n
-\n\n\n\n\n\n\n
+
 # Hardware
 Para o circuito do projeto foram utilizados os seguintes componentes:
-    1x - ESP-32;
-    1x - Sensor de temperatura (MLX90614);
-    1x - Display OLED (128x64 0.96" I2C);
-    1x - Sensor ultrssônico (HC-SR04);
-    1x - DFPlayer mini;
-    1x - Alto-falante de 4homs;
-    1x - AMP de áudio (PAM8403);
-    1x - PCI;
-    1x - Chave ON/OFF;
-    1x - Jack fêmea;
-    1x - Fonte de 5V;
-    Vários jumpers fêmea/fêmea.
-    
+-     1x - ESP-32;
+-     1x - Sensor de temperatura (MLX90614);
+-     1x - Display OLED (128x64 0.96" I2C);
+-     1x - Sensor ultrssônico (HC-SR04);
+-     1x - DFPlayer mini;
+-     1x - Alto-falante de 4homs;
+-     1x - AMP de áudio (PAM8403);
+-     1x - PCI;
+-     1x - Chave ON/OFF;
+-     1x - Jack fêmea;
+-     1x - Fonte de 5V;
+-     Vários jumpers fêmea/fêmea.
 O circuito esquemático foi utilizado o software EasyEDA, programa online e gratuito dedicado ao desenvolvimento e confecção de circuitos impressos. Na Figura 02 o circuito pode ser observado. 
