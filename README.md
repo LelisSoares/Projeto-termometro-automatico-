@@ -37,4 +37,5 @@ Para o circuito do projeto foram utilizados os seguintes componentes:
 
 O circuito esquemático foi utilizado o software EasyEDA, programa online e gratuito dedicado ao desenvolvimento e confecção de circuitos impressos. Na Figura 02 o circuito pode ser observado.
 
-
+![Schematic_Placa 1 - PT_2021-01-03](https://user-images.githubusercontent.com/75312838/103485482-70286380-4dd5-11eb-898e-65e7703ac21f.png)
+Figura 02.
