@@ -1,0 +1,2 @@
+# Projeto-termometro-automatico-
+Este projeto foi desenvolvido no Edital nº 06/2020 - PROJETO COVID-19, com o título de "Desenvolvimento de termômetro corporal sem contato e de baixo custo para ajudar na identificação de infectados pelo coronavírus.". Tem como objetivo auxiliar na medição da temperatura corporal de usuários em diversos estabelecimentos, ajudando assim na logistica do ambiente, por ser automático e servindo de indicativo de potenciais infectado sintomáticos pela identificação de febre.
