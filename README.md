@@ -6,10 +6,11 @@ O aspecto comportamental do projeto é bem simples, uma vez que o dispositivo en
 
 Figura 01.
 ![corpo do projeto](https://user-images.githubusercontent.com/75312838/103484934-466d3d80-4dd1-11eb-8f72-037d712954b0.PNG)
-
+\n
+\n\n\n\n\n\n\n
 # Hardware
 Para o circuito do projeto foram utilizados os seguintes componentes:
-    1x - ESP-32;\n
+    1x - ESP-32;
     1x - Sensor de temperatura (MLX90614);
     1x - Display OLED (128x64 0.96" I2C);
     1x - Sensor ultrssônico (HC-SR04);
