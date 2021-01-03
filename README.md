@@ -4,3 +4,4 @@ Este projeto foi desenvolvido no Edital nº 06/2020 - PROJETO COVID-19, com o t�
 # Funcionamento
 O aspecto comportamental do projeto é bem simples, uma vez que o dispositivo encontre-se fixado a uma altura de aproximadamente de 1,5m do solo o usuário pode aproximar parte do corpo, preferencialmente a testa do sensor de temperatura, após a medição o dispositivo informa através do display e do modulo de áudio a temperatura corporal e se apresenta ou não febre. Na Figura 1 é possível ver seu design e alocação de alguns componentes.
 
+https://github.com/LelisSoares/Projeto-termometro-automatico-/issues/1#issue-777683316
