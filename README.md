@@ -42,4 +42,10 @@ Figura 02.
 
 # Software
 
-Para passar a programação para a placa ESP-32 basta fazer o upload do arquivo **main** através da IDE Arduino.
+Para passar a programação para a placa ESP-32 basta fazer o upload do arquivo **main** através da IDE Arduino. O arquivo se encontra em **Projeto-termometro-automatico-/ESP-32 (APLICAÇÃO FINAL)/main/**.
+
+# Modelos 3D para impressão
+
+Para confecção das parte fisicas do projeto acesse aqui, para fazer o download dos arquivos em STL.
+
+
