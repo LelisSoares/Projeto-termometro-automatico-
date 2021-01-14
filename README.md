@@ -46,6 +46,6 @@ Para passar a programação para a placa ESP-32 basta fazer o upload do arquivo 
 
 # Modelos 3D para impressão
 
-Para confecção das parte fisicas do projeto acesse aqui, para fazer o download dos arquivos em STL.
-https://www.thingiverse.com/thing:4722911
+Para confecção das parte fisicas do projeto acesse [aqui](https://www.thingiverse.com/thing:4722911), para fazer o download dos arquivos em STL.
+
 
