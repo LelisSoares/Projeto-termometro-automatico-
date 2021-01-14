@@ -39,3 +39,7 @@ O circuito esquemático foi utilizado o software EasyEDA, programa online e grat
 
 ![Schematic_Placa 1 - PT_2021-01-03](https://user-images.githubusercontent.com/75312838/103485482-70286380-4dd5-11eb-898e-65e7703ac21f.png)
 Figura 02.
+
+# Software
+
+Para passar a programação para a placa ESP-32 basta fazer o upload do arquivo **main** através da IDE Arduino.
